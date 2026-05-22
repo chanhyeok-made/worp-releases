@@ -625,5 +625,35 @@
       ]]></description>
       <enclosure url="https://github.com/chanhyeok-made/worp-releases/releases/download/v1.0.764/WorpAgent.zip" type="application/octet-stream" length="41168392" sparkle:edSignature="TFrQNojOG6DW5z41DwaA4tI45d4ZZeNYtg+hPeb5nkSYe9wOsQ7bmjMuB4/UpAt/caJFpR6u/H8IWkVzHtHwAA==" />
     </item>
+    <item>
+      <title>v1.0.771</title>
+      <pubDate>Fri, 22 May 2026 19:41:36 +0000</pubDate>
+      <sparkle:version>1.0.771</sparkle:version>
+      <sparkle:shortVersionString>1.0.771</sparkle:shortVersionString>
+      <description><![CDATA[
+<style>
+  body { font-family: -apple-system, sans-serif; font-size: 13px; line-height: 1.5; padding: 4px 8px; }
+  h3 { font-size: 14px; margin: 8px 0 6px; }
+  ul { margin: 4px 0 12px; padding-left: 22px; }
+  li { margin-bottom: 3px; }
+  .meta { color: #888; font-size: 12px; margin-top: 12px; }
+  code { background: rgba(127,127,127,0.15); padding: 1px 4px; border-radius: 3px; font-size: 12px; }
+</style>
+<h3>What is new in this update</h3>
+<ul>
+  <li>architect: V3.3 spec — V3.3 Bug 1 hot fix + layer 2 4 application + 4 sub-axis 13th learning (cohesive 147)</li>
+  <li>architect: V3.3 spec — V3.3-I1 hot fix Bug 2 + 6 instance baseline + 12th learning (cohesive 148)</li>
+  <li>mac: V3.3 hot fix Bug 1 — script PATH resolution fallback (cohesive 147)</li>
+  <li>ios: V3.3-I1 hot fix Bug 2 — TeamsView own toast overlay (cohesive 148)</li>
+  <li>architect: V3.3 spec — V3.3-I1 hot fix done + framework component paradigm assumption 5 instance baseline ⭐⭐⭐⭐ (cohesive 147)</li>
+  <li>ios: V3.3-I1 hot fix — SwiftUI multi-sheet conflict → TeamsView internal modal (cohesive 147)</li>
+  <li>architect: V3.3 spec — V3.3-Mac1 team.activate hot fix done + 4 messages cohesive verified + cohesive 145 layer 2 3 application 강화 (cohesive 146)</li>
+  <li>mac: V3.3-Mac1 hot fix — DC team.activate handler (iOS V3.3-I1 Option B align)</li>
+  <li>No changes</li>
+</ul>
+<p class="meta">Build <code>v1.0.771</code> · 2026-05-22 19:39 UTC · .dmg 43M / .zip 40M</p>
+      ]]></description>
+      <enclosure url="https://github.com/chanhyeok-made/worp-releases/releases/download/v1.0.771/WorpAgent.zip" type="application/octet-stream" length="41167299" sparkle:edSignature="kMHYLHSHfG+DYW7SEEsPRG1fzKUyy4L9yz/OHWfIY+Bq7t9KjKwJFuwdvaot0RDdZP9Lc/innMGlQV5FfgURAA==" />
+    </item>
   </channel>
 </rss>
